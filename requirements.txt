@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-sentence-transformers
-pymongo
-pinecone-client
-llama-cpp-python
-langchain
